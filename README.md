@@ -17,6 +17,9 @@
   </a>
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="40"/> 
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/672px-Bash_Logo_black_and_white_icon_only.svg.png" width="40" height="40"/> 
   </a> 
 </p>
 
