@@ -14,7 +14,10 @@
   </a> 
   <a href="https://www.java.com/en/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-  </a>  
+  </a>
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="40"/> 
+  </a> 
 </p>
 
 <p align= "center">
