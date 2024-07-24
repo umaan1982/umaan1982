@@ -1,5 +1,5 @@
 <h1 align="center">Hello! Usman Ahmed Saeed here 👋</h1>
-<h3 align="center">Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I've worked as a FullStack, and BackEnd Engineer.
 - 🌱 I'm currently pursuing my Masters in Computer Science.
