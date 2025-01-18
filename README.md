@@ -1,8 +1,8 @@
 <h1 align="center">Hello! Usman Ahmed Saeed here 👋</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I've worked as a FullStack, and BackEnd Engineer.
-- 🌱 I'm currently pursuing my Masters in Computer Science.
+- 🔭 I've worked as a FullStack, and BackEnd Engineer with over 2 years of experience.
+- 🌱 I'm currently pursuing my Masters in Computer Science with specialization in Embedded Systems.
 
 <h3 align="center">Languages & Tools</h3>
 
